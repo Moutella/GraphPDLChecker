@@ -2,7 +2,7 @@ Trabalho realizado na disciplina de Linguagens de programação ministrada pelo 
 
 Esse programa deve seguir a seguinte especificado.
 
-Definicao
+Definição
 
 Implementar um programa em uma linguagem de programação funcional que receba como
 entrada um frame PDL (i.e. um grafo com arestas rotuladas) F = {W, Ri} tal que W é um
